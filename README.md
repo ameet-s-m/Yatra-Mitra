@@ -1,4 +1,4 @@
-# 🛡️ PRAVASI AI - Women's Safety App
+# 🛡️Yatra Mitra - AI Powered Smart Travel App 
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-3.9.0-02569B?style=for-the-badge&logo=flutter)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**An AI-powered comprehensive safety solution for women travelers**
+**An AI-powered comprehensive all in one app for travelers**
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
 
@@ -30,7 +30,7 @@
 
 ## 🎯 About
 
-**PRAVASI AI** is a comprehensive women's safety application designed to provide multiple layers of protection during travel. Built with Flutter and powered by AI/ML technologies, it offers real-time safety monitoring, community support, and emergency response features.
+**Yatra Mitra** is a comprehensive all in one travel application designed to provide multiple layers of protection during travel. Built with Flutter and powered by AI/ML technologies, it offers real-time safety monitoring, community support, and emergency response features.
 
 ### Key Highlights
 - 🚨 **Real-time Safety Monitoring** - Continuous GPS tracking with route deviation detection
@@ -564,28 +564,6 @@
 - Android Studio / Xcode (for mobile development)
 - Git
 
-### Steps
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/pravasi-ai.git
-   cd pravasi-ai
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Configure Android permissions**
-   - Location permissions are already configured in `AndroidManifest.xml`
-   - Ensure location services are enabled on device
-
-4. **Run the app**
-   ```bash
-   flutter run
-   ```
-
 ### Android Setup
 - Minimum SDK: 21
 - Target SDK: 33+
@@ -697,38 +675,6 @@ lib/
 
 ---
 
-## 📸 Screenshots
-
-### Home Screen
-- Dashboard with quick actions
-- Safety statistics
-- Recent trips
-- SOS button
-
-### Trip Planning
-- OCR upload interface
-- Route generation
-- Safety monitoring setup
-
-### Live Tracking
-- Real-time location
-- Route deviation alerts
-- Safety check dialogs
-- Voice commands
-
-### Analytics Dashboard
-- Safety score
-- Trip statistics
-- Visual charts
-- Safety insights
-
-### Safe Zones
-- Nearby safe locations
-- Ratings and reviews
-- Directions integration
-
----
-
 ## 🛠️ Tech Stack
 
 ### Core Technologies
@@ -753,44 +699,12 @@ lib/
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Contribution Guidelines
-- Follow Flutter/Dart style guidelines
-- Write clear commit messages
-- Add tests for new features
-- Update documentation
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - Google ML Kit for OCR capabilities
 - Flutter team for the amazing framework
 - Open source community for various packages
 - All contributors and testers
-
----
-
-## 📞 Contact & Support
-
-- **Project Link**: [https://github.com/yourusername/pravasi-ai](https://github.com/yourusername/pravasi-ai)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/pravasi-ai/issues)
-- **Email**: support@pravasiai.com
 
 ---
 
@@ -818,7 +732,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ for Women's Safety**
+**Built with ❤️ for you always**
 
 ⭐ Star this repo if you find it helpful!
 
