@@ -2,9 +2,8 @@
 
 <div align="center">
 
-![PRAVASI AI](https://img.shields.io/badge/PRAVASI-AI-blue?style=for-the-badge)
+
 ![Flutter](https://img.shields.io/badge/Flutter-3.9.0-02569B?style=for-the-badge&logo=flutter)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **An AI-powered comprehensive all in one app for travelers**
 
